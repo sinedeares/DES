@@ -1,0 +1,10 @@
+D:\InfSecurity\DES\DES\bin\Debug\DES.exe.config
+D:\InfSecurity\DES\DES\bin\Debug\DES.exe
+D:\InfSecurity\DES\DES\bin\Debug\DES.pdb
+D:\InfSecurity\DES\DES\obj\Debug\DES.csprojAssemblyReference.cache
+D:\InfSecurity\DES\DES\obj\Debug\DES.Form1.resources
+D:\InfSecurity\DES\DES\obj\Debug\DES.Properties.Resources.resources
+D:\InfSecurity\DES\DES\obj\Debug\DES.csproj.GenerateResource.cache
+D:\InfSecurity\DES\DES\obj\Debug\DES.csproj.CoreCompileInputs.cache
+D:\InfSecurity\DES\DES\obj\Debug\DES.exe
+D:\InfSecurity\DES\DES\obj\Debug\DES.pdb
